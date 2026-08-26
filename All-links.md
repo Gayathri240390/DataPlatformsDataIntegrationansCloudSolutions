@@ -60,3 +60,4 @@ https://ddm-novalo-lecture.s3.eu-north-1.amazonaws.com/index.html
 Slides: https://www.novalo.se/lectures/cloud
 
 Lösenord: jensen
+ https://github.com/bastosnov/jensen-IOT-lab/
